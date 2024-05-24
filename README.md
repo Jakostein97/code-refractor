@@ -10,6 +10,17 @@ N/A
 
 ## Usage
 
+    ```md
+    ![alt text](Assets/Screenshots/Screenshot%202024-05-23%20231412.png)
+    ```
+
+```md
+    ![alt text](Assets/Screenshots/Screenshot%202024-05-23%20231500.png)
+    ```
+
+    ```md
+    ![alt text](Assets/Screenshots/Screenshot%202024-05-23%20231742.png)
+    ```
 
 ## Credits
 
